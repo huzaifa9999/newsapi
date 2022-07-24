@@ -1,0 +1,24 @@
+    .accordion {
+        align-items: center;
+        justify-self: center;
+        width: 800px;
+        padding: 20px 20px 20px 20px;
+        justify-content: center;
+        margin: auto;
+        box-shadow: 0 5px 8px 9px rgba(74, 72, 73, 0.37);
+    }
+    
+    .accordion-item {
+        background-color: rgb(255, 251, 245)
+    }
+    
+    .accordion-header {
+        color: black;
+        font-weight: 200px;
+        font-style: italic;
+    }
+    
+    .accordion-body {
+        color: black;
+        font-family: cursive;
+    }
